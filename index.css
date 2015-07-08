@@ -9,4 +9,5 @@ h1{
 .content{
   background-color: whitesmoke;
   padding: 15px;
+  border: solid 1px #ccc;
 }
