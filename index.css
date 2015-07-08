@@ -5,3 +5,8 @@ h1{
   padding: 15px;
   margin: 10px 0px;
 }
+
+.content{
+  background-color: whitesmoke;
+  padding: 15px;
+}
