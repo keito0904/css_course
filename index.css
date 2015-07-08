@@ -48,4 +48,5 @@ td{
   width: 100%;
   font-family: serif;
   font-weight: bold;
+  box-sizing: border-box;
 }
