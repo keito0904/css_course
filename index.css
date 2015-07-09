@@ -50,3 +50,7 @@ td{
   font-weight: bold;
   box-sizing: border-box;
 }
+
+.panel{
+  width: 50%;
+}
