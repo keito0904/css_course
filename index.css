@@ -58,6 +58,14 @@ td{
   box-sizing: border-box;
 }
 
+.panel-left{
+  padding-left: 40px;
+}
+
+.panel-right{
+  padding-right: 40px;
+}
+
 .clear{
   clear: both;
 }
