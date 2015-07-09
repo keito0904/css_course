@@ -83,4 +83,5 @@ td{
 
 #toTop > a{
   padding: 10px;
+  display: block;
 }
