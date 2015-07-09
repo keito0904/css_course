@@ -78,4 +78,5 @@ td{
   background-color: white;
   border: solid 1px #ccc;
   border-radius: 10px 10px 0px 0px;
+  z-index: 1;
 }
