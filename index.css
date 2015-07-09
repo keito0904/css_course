@@ -80,3 +80,7 @@ td{
   border-radius: 10px 10px 0px 0px;
   z-index: 1;
 }
+
+#toTop > a{
+  padding: 10px;
+}
